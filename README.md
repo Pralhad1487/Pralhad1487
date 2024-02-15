@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Coder's !</h1>
-<h3 align="center">I am computer engineering gradute having keen interest in MERN stack developement. Thank you for taking the time to view my GitHub profile😊</h3>
+<h3 align="center">I am Pralhad Mule, computer engineering gradute having keen interest in MERN stack developement. Thank you for taking the time to view my GitHub profile😊</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pralhad1487&label=Profile%20views&color=0e75b6&style=flat" alt="pralhad1487" /> </p>
