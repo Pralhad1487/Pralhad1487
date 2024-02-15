@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **pralhadmule677@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YRNffP992E_zrJqbVRkPSc5l1zz3aiN8/view?usp=drive_link](https://drive.google.com/file/d/1YRNffP992E_zrJqbVRkPSc5l1zz3aiN8/view?usp=drive_link)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1YRNffP992E_zrJqbVRkPSc5l1zz3aiN8/view?usp=drive_link" target="_blank">Read my Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
